@@ -1,0 +1,7 @@
+[Skip "Select Player and Press Start]
+Description = To behave more like arcade version, this skips the screen that asks if you want to be player 1-4. It will pick whatever one the game would have had highlighted by default. If you want to play on same team or have control on what player you will be, I recommend setting multitap to port one, then 1A-1D will be player 1-4.
+Type = Gameshark
+Activation = EndFrame
+Author = cor094
+8003D638 F5C8
+8003D63A 0800
